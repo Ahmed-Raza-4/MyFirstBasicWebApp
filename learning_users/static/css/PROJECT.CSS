@@ -1,0 +1,13 @@
+
+.board button{
+  background-color: grey;
+  height: 100px;
+  width: 100px;
+  border : 2px solid black;
+border-radius: 100%;
+margin: 1px;
+}
+
+h1{
+  color: red;
+}
